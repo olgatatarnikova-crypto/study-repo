@@ -1,9 +1,19 @@
 # study-repo
 
-## My Project Plan
+## My Awesome Project
 
 Initialize the project repository
 Add the main feature
 Create unit tests
 Update the documentation
 Prepare for the first release
+
+## Usage Examples
+
+Were are some common examples of how to use this project
+
+### Building the Project
+To build the project from the common lne, navigate to the root 
+directory and run:
+...bash
+./gradlew build
